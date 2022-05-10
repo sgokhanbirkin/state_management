@@ -89,6 +89,8 @@ class AvailableColorsWidget extends InheritedModel<AvailableColors> {
         );
 
   static AvailableColorsWidget of(
+
+    
     BuildContext context,
     AvailableColors aspect,
   ) {
